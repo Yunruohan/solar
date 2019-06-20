@@ -1,0 +1,76 @@
+const timezones =
+[{
+  text: '东十二区',
+  value: '+1200'
+}, {
+  text: '东十一区',
+  value: '+1100'
+}, {
+  text: '东十区',
+  value: '+1000'
+}, {
+  text: '东九区',
+  value: '+0900'
+}, {
+  text: '东八区',
+  value: '+0800'
+}, {
+  text: '东七区',
+  value: '+0700'
+}, {
+  text: '东六区',
+  value: '+0600'
+}, {
+  text: '东五区',
+  value: '+0500'
+}, {
+  text: '东四区',
+  value: '+0400'
+}, {
+  text: '东三区',
+  value: '+0300'
+}, {
+  text: '东二区',
+  value: '+0200'
+}, {
+  text: '东一区',
+  value: '+0100'
+}, {
+  text: '西十二区',
+  value: '-1200'
+}, {
+  text: '西十一区',
+  value: '-1100'
+}, {
+  text: '西十区',
+  value: '-1000'
+}, {
+  text: '西九区',
+  value: '-0900'
+}, {
+  text: '西八区',
+  value: '-0800'
+}, {
+  text: '西七区',
+  value: '-0700'
+}, {
+  text: '西六区',
+  value: '-0600'
+}, {
+  text: '西五区',
+  value: '-0500'
+}, {
+  text: '西四区',
+  value: '-0400'
+}, {
+  text: '西三区',
+  value: '-0300'
+}, {
+  text: '西二区',
+  value: '-0200'
+}, {
+  text: '西一区',
+  value: '-0100'
+}]
+
+export default timezones
